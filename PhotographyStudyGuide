@@ -49,3 +49,109 @@ Any moving objects in front might show a little blur.
 
 1/1000 - (Fast Shutter Speed) - The background will definitely be out of focus and the middle ground will be blurred. 
 Any moving objects in front will be sharp and any objects in front should be sharp as well.
+
+5.) What is Bracketing? 
+
+Taking several photographs of the same scene at different exposure settings, 
+some greater than and some less than the setting indicated by the meter, to ensure at least one well-exposed frame.
+Bracketing produces lighter and darker versions of the same scene. 
+Bracketing helps if you are not sure about the exposure. 
+To bracket, you make several photographs of the same scene, 
+increasing and decreasing the exposure by adjusting the aperture or shutter speed. 
+To bracket, first make an exposure with the aperture and shutter speed set by the automatic system or manually set by 
+you at the combination you think is the right one. 
+Then make a second shot with one stop more exposure and a third shot with one stop less exposure. 
+
+This is easy to do if you set the exposure manually: 
+For one stop more exposure either set the shutter to the next slower speed or the aperture to the next larger opening (the next smaller f-number); 
+For one stop less exposure, either set the shutter to the next faster speed or the aperture to the next smaller opening (the next larger f-number);
+In automatic operation, if you change to the next larger aperture, the camera may simply shift to the next faster shutter speed, 
+resulting in the same overall exposure. Instead, you have to override the camera’s automatic system.
+
+6.) What is “panning”?
+
+Panning to show motion.
+Panning the camera - moving it in the same direction as the subject’s movement during the exposure - is another way of showing motion. 
+The background will be blurred, but the subject will be sharper than it would be if the camera were held steady. 
+
+7.) What is Camera RAW?
+
+One of several proprietary file formats that preserve all the data from a digital camera picture with no after-capture interpretation. 
+
+You can save your files in their original form (raw files). The file as it is captured by your camera or scanner is often referred to as a raw file, 
+as opposed to a derivative file - one that has been processed, altered, edited, or changed in some way. 
+A Camera Raw file is a specific kind of raw file that holds all the information captured by a digital camera’s sensor, in a completely unprocessed form. 
+If you have instead set your camera to capture images and save them as TIFF files or JPEGS, those original files can be considered raw files as well.
+
+Understanding and using Camera Raw files can make your photographs better. 
+A digitally captured picture is only abstract data until it is interpreted to look like the scene you photographed. 
+If your camera can save Camera Raw files, you can interpret the data yourself later. 
+It is easy to do, gives you more control, and can produce a higher-quality final image.
+
+For the best results, capture your pictures in Camera Raw format which lets you control the interpretation of sensor data during editing. 
+The white balance adjustment is part of the processing that is applied to raw sensor data after capture, 
+so you can compensate at that time for the effects of different light sources without degrading the quality of your image. 
+If your camera captures in JPEG or TIFF format, white balance is applied by the camera. 
+
+8.) How would you describe a JPEG vs. a RAW file?
+
+Camera Raw files preserve all the capture data with no loss. If you are using TIFF or JPEG files from your camera, 
+you are accepting the camera’s interpretation of what its sensor captured, along with some loss of original data. 
+If your camera lets you download raw files in the camera’s own format,  you can then control the interpretation of sensor data (color balance, 
+tonal relationships, etc.), tailoring it to make an image file that is exactly what you want.
+Camera RAW files are larger than JPEG files; you can hold more JPEGs on a memory card than RAW files.
+Camera RAW files require specific software to open while JPEG files can usually be opened by most software. 
+JPEG files, (.CR2, .NEF, .PEF, etc...) files that do not conform to a single set of standards like JPEGs or TIFFs. 
+Raw is a generic term for the individual and proprietary way that a digital camera produces unprocessed data, before settings like white balance are applied. 
+Starting with a raw file allows more precise editing control and lets you keep your pictures in the high-bit
+(12 or 16 bits per pixel) format that better digital cameras capture. 
+You can open raw files with software from the camera manufacturer, but try your editing software first.
+(.jpg), written a JPEG, compresses photos into a smaller file. You can choose one of several quality levels for progressively smaller files; 
+a low quality may allow an image saved as a JPEG to be reduced to as little as one-twentieth its original size. 
+This kind of compression, which discards information, is called lossy. Every time you open and resave a JPEG its quality deteriorates; 
+choose another format for editing. JPEGs, with smaller file sizes making faster transmission times, 
+are common for displaying photographs on the Web or sending snapshots over the Internet. 
+Digital cameras offer this format as a file option to fit more photographs on a memory card. 
+A JPEG can only hold an 8-bit pixel depth.
+Most digital cameras can only save in one or both of these formats, TIFF or JPEG files.
+If your camera is shooting Camera Raw files, this gives you a better chance at retrieving an image that was slightly over-or underexposed. 
+If your camera is capturing TIFF or JPEG files, you have a little leeway, capturing the correct exposure.
+
+9.) What is composition?
+
+How a photograph is “put together”....
+Put simply, composition is how the elements of a photo are arranged. 
+... A good photograph will take many different parts and combine them into an aesthetically pleasing whole. 
+Composition is how an artist tells a story within the confines of a single frame.
+Compositional Techniques
+- Rule of Thirds
+The rule of thirds is a composition guide that states that arranging the important features of an image on or near the 
+horizontal and vertical lines that would divide the image into thirds horizontally and vertically is visually pleasing. 
+The objective is to stop the subjects and areas of interest (such as the horizon) from bisecting the image, 
+by placing them near one of the lines that would divide the image into three equal columns and rows, 
+ideally near the intersection of those lines.
+- Rule of Odds
+- Rule of Space
+- Simplification
+- Shallow Depth of Field
+In photography, and also (via software simulation of real lens limitations) in 3D graphics, 
+one approach to achieving simplification is to use a wide aperture when shooting to limit the depth of field. 
+When used properly in the right setting, this technique can place everything that is not the subject of the photograph out of focus.
+- Geometry and Symmetry
+- Creating Movement
+- Other Techniques
+	    
+10.) What is quality of light?
+
+Light can range from direct and contrasty to diffused and soft, whether indoors or out.
+Direct Light - Direct Light is high in contrast. It creates bright highlights and dark shadows with hard, or sharp, edges. 
+Photographic materials, both digital and film, have limited dynamic range (latitude) 
+and cannot record details in very light and very dark areas at the same time. 
+Directly lit areas may appear brilliant and bold, with shadowed ones almost entirely black. 
+If you are photographing in direct light, you may want to add fill light to lighten shadows. 
+Because direct light is often quite bright, you can use a small aperture to give plenty of depth of field, 
+a fast shutter speed to stop motion, or both, if the light is bright enough. 
+The sun on a clear day is a common sources of direct light. Indoors, a flash or photo lamp pointed directly at your subject 
+(that is, not bounced off another surface) also provide direct light.  
+
+
