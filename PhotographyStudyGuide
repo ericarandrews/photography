@@ -157,3 +157,105 @@ Directly lit areas may appear brilliant and bold, with shadowed ones almost enti
 Because direct light is often quite bright, you can use a small aperture to give plenty of depth of field, a fast shutter speed to stop motion, or both, if the light is bright enough. 
 The sun on a clear day is a common source of direct light. Indoors, a flash or photo lamp pointed directly at your subject (that is, not bounced off another surface) also provide direct light. 
 
+Directional/Diffused Light - Directional/Diffused light is intermediate in contrast. It is partly direct and partly diffused. 
+Shadows are present, but they are softer and not as dark as those caused by direct light. 
+You will encounter directional/diffused light on a hazy day when the sun’s rays are somewhat scattered so light comes from the surrounding sky as well as from the sun. 
+A shaded area, such as under trees or along the shady side of a building, can have directional/diffused light if the light is bouncing onto the scene primarily from one direction. 
+Indoors, a skylight or other large window can give this type of light if the sun is not shining directly on the subject. 
+Light from a flash or photo lamp can also be directional/diffused if it is softened by a translucent diffusing material 
+placed in front of thelight or if it is bounced off another surface such as a wall or an umbrella reflector.
+
+Diffused Light - Diffused Light is low in contrast. It bathes subjects in light from all sides so that shadows are weak or even absent. 
+Colors are less brilliant than they are in direct light and are likely to be pastel or muted in tone. Because diffused light is likely to be dimmer than direct light, 
+you might not be able to use a small aperture with a fast shutter speed. 
+A heavily overcast day creates diffused light because the light is cast evenly by the whole dome of the sky rather than,
+as it is on a sunny day, mostly by the small disk of the sun. Indoors, diffused light can be created with a very broad source of light used close to the subject 
+(such as light bounced into a large umbrella reflector)plus additional fill light (or a Softbox - another broad source - used in a lighting setup).
+
+11.) What is contrast?
+
+The difference between the light and dark parts of a scene or photograph. 
+
+Two kinds of contrast are important in a photograph; both are established by the kind of illumination on the scene and can be altered by your technique. 
+
+Overall (or global) contrast, or dynamic range, is the difference between the lightest and darkest parts of a scene or image. The range you can capture varies; 
+all films and digital sensors have different limits on the range that can be captured. 
+
+Local contrast is what makes photographs look crisp or soft, and has to do with the edges and transitions of color and tone. 
+It is affected by the quality of the lens (and how clean that lens is), the kind of film or sensor used, and by digital editing.
+
+High-contrast scenes are difficult to expose correctly because the range of tones in a contrasty scene (also called a scene of wide or high dynamic range) 
+can meet or even exceed the latitude (the range of tones that can be captured simultaneously) of the sensor or film.
+Even a small exposure error will leave you with detail missing (clipping) in your highlights or shadows. As always, it is safest to bracket.
+
+How do you capture a scene when the contrast is too great for your camera? What do you do when the highlights are too bright and the shadows too dark to be captured at the same time? 
+The range of tones a sensor or film can capture (or a monitor can display or a printer can print) is called its dynamic range. 
+When exposing a scene with too much contrast - too great a dynamic range - you can only make sure the most important tones are recorded, you can’t capture all of them in one picture. 
+
+The shape of the curve (or of any section) indicates contrast. A steeper slope is higher contrast; more horizontal means lower contrast. 
+Increasing contrast in one part of the curve means losing it somewhere else.
+
+Contrast and Tone
+- Full Scale: Black, White, and Many Tones in between
+- High Contrast: Very Dark and Very Light Tones, Few Gray Tones
+- Low Contrast: Mostly Gray tones
+- High Key: Mostly Light Tones
+- Low Key: Mostly Dark Tones
+
+************************************************************************
+
+Additional Notes
+
+- Underexposed - Too Dark
+- Overexposed - Too Light
+
+.tiff (written TIFF) is a nearly universal format that allows a photograph to be opened on any computer by nearly every program that works with photographs. 
+Saving a file as a TIFF makes no changes to it (it is called lossless), nor does its optional compression mode (LZW). A TIFF can be 8- or 16-bit. 
+
+.dng (Digital Negative) is an open source (no owner, publicly available) format developed by Adobe in the hope that camera makers would standardize their now-proprietary formats. 
+Adobe’s software, or their free utility, will let you convert any Camera Raw file into a .dng, which may eventually become the standard Camera Raw format.
+
+************************************************************************
+
+Lightroom 
+
+1.) What is a histogram and what does it look like? 
+
+A histogram is a graphical representation of the tonal values of your image. In other words, it shows the amount of tones of particular brightness found in your photograph ranging
+from black (0% brightness) to white (100% brightness). As shown in the image below, dark tones are displayed on the left side of the histogram.
+As you move rightward, tones get lighter. The middle portion of the histogram represents midtones, which are neither dark nor light. 
+Vertical axis of a histogram displays the amount of tones of that particular lightness. 
+Histogram is exposure-dependent, but is also affected by tone curve and other settings.
+
+Where do you find it to manipulate it in Lightroom? 
+In Lightroom, you can find the histogram at the top of the right-hand panel. If your shadows are clipped, the gray triangle in the left corner of the histogram will turn white.
+App - In the top right corner, for more options, under View Options.
+
+2.) Why is it better to convert to Black & White in Lightroom than in camera?
+
+When deciding on how to shoot black and white photography, my advice is always to shoot in raw and convert to black and white afterwards.
+In this way, you have more choices and you will always produce an image with the maximum amount of quality that your camera can produce.
+
+3.) Why is it best to have only one Lightroom catalog?
+
+For typical Lightroom use, you should NOT be using multiple catalogs. Using multiple catalogs can slow down your workflow, hinder your ability to organize your photos,
+increase the chances for file corruption, and gives you no actual benefits.
+...because it takes a LOT longer to open and close multiple catalogs than it ever would to keyword search even the most massive of Lightroom catalogs.
+...One Catalog Makes It Easier To Find Images Quickly
+...If you Really Need To Separate Photos, Use Folders Instead
+...Multiple Catalogs could only be beneficial if you need to backup your data.  
+
+4.) What does the adjustment brush do?
+
+To make local corrections in Lightroom Classic...
+The Adjustment Brush tool lets you selectively apply Exposure, Clarity, Brightness, and other adjustments to photos by "painting" them onto the photo.
+... the adjustment tool selects and modifies specific image areas.
+
+(Adjustment Brush tool only) Specify options for Adjustment Brush A:
+- Size: Specifies the diameter of the brush tip in pixels.
+- Feather: Creates a soft-edged transition between the brushed area and the surrounding pixels. 
+When you use the brush, the distance between the inner and outer circle represents the feather amount.
+- Flow: Controls the rate of application of the adjustment.
+- Auto Mask: Confines brush strokes to areas of similar color.
+- Density: Controls the amount of transparency in the stroke.
+
