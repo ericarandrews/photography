@@ -239,7 +239,7 @@ In this way, you have more choices and you will always produce an image with the
 3.) Why is it best to have only one Lightroom catalog?
 
 For typical Lightroom use, you should NOT be using multiple catalogs. Using multiple catalogs can slow down your workflow, hinder your ability to organize your photos,
-increase the chances for file corruption, and gives you no actual benefits.
+increase the chances for file corruption, and give you no actual benefits.
 ...because it takes a LOT longer to open and close multiple catalogs than it ever would to keyword search even the most massive of Lightroom catalogs.
 ...One Catalog Makes It Easier To Find Images Quickly
 ...If you Really Need To Separate Photos, Use Folders Instead
@@ -259,3 +259,45 @@ When you use the brush, the distance between the inner and outer circle represen
 - Auto Mask: Confines brush strokes to areas of similar color.
 - Density: Controls the amount of transparency in the stroke.
 
+Choose the type of adjustment you want to make from the Effect pop-up menu, or drag the sliders:
+- Temp: Adjusts the color temperature of an area of the image, making it warmer or cooler. 
+A graduated filter temperature effect can improve images captured in mixed-lighting conditions.
+- Tint: Compensates for a green or magenta color cast
+- Exposure: Sets the overall image brightness. 
+Applying an Exposure local correction can achieve results similar to traditional dodging and burning.
+- Contrast: Adjusts image contrast, mainly affecting midtones
+- Highlights: Recovers detail in overexposed highlight areas of an image
+- Shadows: Recovers detail in underexposed shadow areas of an image
+- Whites: Adjusts the white points in a photo
+- Blacks: Adjusts the black points in a photo
+- Texture: Smoothens or accentuates textured details in your photo. Move the slider to the left to smoothen details; 
+move it to the right to accentuate details. When you adjust the Texture slider, the color or tonality does not change.
+- Clarity: Adds depth to an image by increasing local contrast
+- Dehaze: Reduces or increases existing haze in a photo
+- Hue: Adjusts the hue in a photo. Select Use Fine Adjustment for precise adjustments.
+- Saturation: Adjusts the vividness of the color
+- Sharpness: Enhances edge definition to bring out details in the photo. A negative value blurs details.
+- Noise: Reduces luminance noise, which can become apparent when shadow areas are opened.
+- Moiré: Removes moiré artifacts, or color aliasing
+- Defringe: Removes fringe colors along edges
+- Color: Applies a tint to the area affected by the local correction. Select the hue by clicking the Color swatch. 
+The Color effect is preserved if you convert the photo to black and white.
+- Other effects: Additional effects are available for specific tasks, such as whitening teeth, enhancing irises, or softening skin tones.
+Note: If Burn (Darken), Dodge (Lighten), Iris Enhance, Soften Skin, or Teeth Whitening is not available, 
+choose Lightroom Classic > Preferences (Mac OS) or Edit > Preferences (Windows). 
+In the Presets panel, click Restore Local Adjustment Presets.
+
+5.) Why do you never have to "save" edits in Lightroom?
+
+It saves automatically...
+
+************************************************************************
+ Notes from Book
+
+- The shorter the focal length of the lens, the greater the depth of field (no blurred background). 
+- The smaller the aperture (f/16; with a given lens), the greater the depth of field (no blurred background). 
+
+- The farther you are from a subject, the greater the depth of field (no blurred background).
+- A lens with variable or adjustable focal-length lens is called a zoom lens.
+- Aperture or F-stops (the size of the lens opening), controls the amount of light that passes through the lens. 
+The lower the F-stops, the wider the lens opening and the more light that is let in.
